@@ -1,0 +1,7 @@
+C:\Users\fredy\OneDrive\Escritorio\Programacion Computacional\Actividad1 PC\Actividad1 PC\obj\Debug\Actividad1 PC.csprojAssemblyReference.cache
+C:\Users\fredy\OneDrive\Escritorio\Programacion Computacional\Actividad1 PC\Actividad1 PC\obj\Debug\Actividad1 PC.csproj.CoreCompileInputs.cache
+C:\Users\fredy\OneDrive\Escritorio\Programacion Computacional\Actividad1 PC\Actividad1 PC\bin\Debug\Actividad1 PC.exe.config
+C:\Users\fredy\OneDrive\Escritorio\Programacion Computacional\Actividad1 PC\Actividad1 PC\bin\Debug\Actividad1 PC.exe
+C:\Users\fredy\OneDrive\Escritorio\Programacion Computacional\Actividad1 PC\Actividad1 PC\bin\Debug\Actividad1 PC.pdb
+C:\Users\fredy\OneDrive\Escritorio\Programacion Computacional\Actividad1 PC\Actividad1 PC\obj\Debug\Actividad1 PC.exe
+C:\Users\fredy\OneDrive\Escritorio\Programacion Computacional\Actividad1 PC\Actividad1 PC\obj\Debug\Actividad1 PC.pdb
