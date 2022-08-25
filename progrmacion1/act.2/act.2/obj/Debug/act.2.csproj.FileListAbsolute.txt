@@ -1,0 +1,2 @@
+D:\progrmacion1\act.2\act.2\obj\Debug\act.2.csprojAssemblyReference.cache
+D:\progrmacion1\act.2\act.2\obj\Debug\act.2.csproj.CoreCompileInputs.cache

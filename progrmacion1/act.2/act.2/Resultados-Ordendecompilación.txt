@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: act.2, configuración: Debug Any CPU ------
+1>D:\progrmacion1\act.2\act.2\Program.cs(47,10,47,10): error CS1513: Se esperaba }
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========
