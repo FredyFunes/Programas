@@ -1,0 +1,10 @@
+D:\progrmacion1\Ej3\Ej3\bin\Debug\Ej3.exe.config
+D:\progrmacion1\Ej3\Ej3\bin\Debug\Ej3.exe
+D:\progrmacion1\Ej3\Ej3\bin\Debug\Ej3.pdb
+D:\progrmacion1\Ej3\Ej3\obj\Debug\Ej3.csprojAssemblyReference.cache
+D:\progrmacion1\Ej3\Ej3\obj\Debug\Ej3.Form1.resources
+D:\progrmacion1\Ej3\Ej3\obj\Debug\Ej3.Properties.Resources.resources
+D:\progrmacion1\Ej3\Ej3\obj\Debug\Ej3.csproj.GenerateResource.cache
+D:\progrmacion1\Ej3\Ej3\obj\Debug\Ej3.csproj.CoreCompileInputs.cache
+D:\progrmacion1\Ej3\Ej3\obj\Debug\Ej3.exe
+D:\progrmacion1\Ej3\Ej3\obj\Debug\Ej3.pdb

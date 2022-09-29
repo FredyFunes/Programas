@@ -1,0 +1,10 @@
+D:\progrmacion1\suma_resta_ej3\suma_resta_ej3\bin\Debug\suma_resta_ej3.exe.config
+D:\progrmacion1\suma_resta_ej3\suma_resta_ej3\bin\Debug\suma_resta_ej3.exe
+D:\progrmacion1\suma_resta_ej3\suma_resta_ej3\bin\Debug\suma_resta_ej3.pdb
+D:\progrmacion1\suma_resta_ej3\suma_resta_ej3\obj\Debug\suma_resta_ej3.csprojAssemblyReference.cache
+D:\progrmacion1\suma_resta_ej3\suma_resta_ej3\obj\Debug\suma_resta_ej3.Form1.resources
+D:\progrmacion1\suma_resta_ej3\suma_resta_ej3\obj\Debug\suma_resta_ej3.Properties.Resources.resources
+D:\progrmacion1\suma_resta_ej3\suma_resta_ej3\obj\Debug\suma_resta_ej3.csproj.GenerateResource.cache
+D:\progrmacion1\suma_resta_ej3\suma_resta_ej3\obj\Debug\suma_resta_ej3.csproj.CoreCompileInputs.cache
+D:\progrmacion1\suma_resta_ej3\suma_resta_ej3\obj\Debug\suma_resta_ej3.exe
+D:\progrmacion1\suma_resta_ej3\suma_resta_ej3\obj\Debug\suma_resta_ej3.pdb

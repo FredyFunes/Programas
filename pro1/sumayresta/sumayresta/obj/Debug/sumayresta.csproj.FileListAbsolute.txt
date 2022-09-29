@@ -1,0 +1,10 @@
+D:\progrmacion1\sumayresta\sumayresta\bin\Debug\sumayresta.exe.config
+D:\progrmacion1\sumayresta\sumayresta\bin\Debug\sumayresta.exe
+D:\progrmacion1\sumayresta\sumayresta\bin\Debug\sumayresta.pdb
+D:\progrmacion1\sumayresta\sumayresta\obj\Debug\sumayresta.csprojAssemblyReference.cache
+D:\progrmacion1\sumayresta\sumayresta\obj\Debug\sumayresta.Form1.resources
+D:\progrmacion1\sumayresta\sumayresta\obj\Debug\sumayresta.Properties.Resources.resources
+D:\progrmacion1\sumayresta\sumayresta\obj\Debug\sumayresta.csproj.GenerateResource.cache
+D:\progrmacion1\sumayresta\sumayresta\obj\Debug\sumayresta.csproj.CoreCompileInputs.cache
+D:\progrmacion1\sumayresta\sumayresta\obj\Debug\sumayresta.exe
+D:\progrmacion1\sumayresta\sumayresta\obj\Debug\sumayresta.pdb

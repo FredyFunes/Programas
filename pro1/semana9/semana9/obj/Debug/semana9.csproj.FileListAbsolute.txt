@@ -1,0 +1,10 @@
+D:\progrmacion1\semana9\semana9\bin\Debug\semana9.exe.config
+D:\progrmacion1\semana9\semana9\bin\Debug\semana9.exe
+D:\progrmacion1\semana9\semana9\bin\Debug\semana9.pdb
+D:\progrmacion1\semana9\semana9\obj\Debug\semana9.csprojAssemblyReference.cache
+D:\progrmacion1\semana9\semana9\obj\Debug\semana9.Form1.resources
+D:\progrmacion1\semana9\semana9\obj\Debug\semana9.Properties.Resources.resources
+D:\progrmacion1\semana9\semana9\obj\Debug\semana9.csproj.GenerateResource.cache
+D:\progrmacion1\semana9\semana9\obj\Debug\semana9.csproj.CoreCompileInputs.cache
+D:\progrmacion1\semana9\semana9\obj\Debug\semana9.exe
+D:\progrmacion1\semana9\semana9\obj\Debug\semana9.pdb
