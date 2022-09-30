@@ -123,5 +123,10 @@ namespace semana9
         {
             txtSalN.Text = Empleado.Salneto(Empleado.Salario).ToString();
         }
+
+        private void txtDUI_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

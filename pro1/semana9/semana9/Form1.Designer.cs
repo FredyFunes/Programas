@@ -133,6 +133,7 @@ namespace semana9
             this.txtDUI.Name = "txtDUI";
             this.txtDUI.Size = new System.Drawing.Size(100, 22);
             this.txtDUI.TabIndex = 6;
+            this.txtDUI.TextChanged += new System.EventHandler(this.txtDUI_TextChanged);
             // 
             // txtSalario
             // 
